@@ -9,4 +9,3 @@ Falta por instalar
 
 react router 
 testing library
-config vitest
